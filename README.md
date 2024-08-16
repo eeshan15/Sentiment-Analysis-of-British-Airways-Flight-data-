@@ -1,7 +1,3 @@
-Here's a README file for the sentiment analysis part of your GitHub repository:
-
----
-
 # Sentiment Analysis for Customer Reviews
 
 ## Overview
@@ -69,7 +65,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or inquiries, please contact [your email address].
-
----
-
-Feel free to customize the README file to better suit your project's specific details and requirements.
